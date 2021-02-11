@@ -20,14 +20,14 @@
 - title: Sogang University
   title-url: http://sogang.ac.kr/index.do
   date: Mar 2017 - Present
-  subtitle: B.A. Computer Science
+  subtitle: B.A. Computer Science and Engineering
   timeline-side: right
 
 - title: LG Uplus
   date: Aug 2020 - Dec 2020
   subtitle: contract worker
   tags:
-    - tag: Pythom
+    - tag: Python
     - tag: MySql
   timeline-side: left
 
@@ -44,8 +44,9 @@
   timeline-side: left
   
 - title: Sogang University
-  title-url: http://sogang.ac.kr/index.do
   date: Mar 2019 - Dec 2019
   subtitle: Undergraduate research student
-  timeline-side: left
+    tags:
+    - tag: Python
+  timeline-side: right
   
