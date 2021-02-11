@@ -80,7 +80,7 @@ os_projects_title: Open Source Projects
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
-contact_description: Hi
+contact_description: 
 #checkout the source code and the documentation at <a class="highlight-link" ref="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
